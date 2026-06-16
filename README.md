@@ -8,7 +8,4 @@ Welcome to my Python portfolio! This repository contains a collection of interac
 3. **Python Calculator (`python_calculator.py`):** A functional arithmetic tool handling user execution flow and input validation.
 4. **Stone, Paper, Scissors (`rock_paper_scissors.py`):** A digital take on the classic game, implementing game logic, randomized computer choices, and conditional comparisons.
 
-## 💻 Tech Stack
-* Python 3
-
 *Designed and developed by Anshul Snehal Palai.*
